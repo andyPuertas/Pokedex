@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Pokedex</string>
+    <string name="unknown_error">Ha ocurrido un error desconocido.</string>
 </resources>
